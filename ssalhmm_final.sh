@@ -7,6 +7,11 @@
 
 module load hmmer
 
+# script used to find protein domains of interest in a salmon assembly.
+
+
+
+
 # module load emboss
 
 cd /home/suurvalj/scratch/
