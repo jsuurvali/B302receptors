@@ -7,6 +7,8 @@
 
 module load hmmer
 
+# script used to find protein domains of interest in a shark assembly
+
 cd /home/suurvalj/scratch/
 
 echo "shark started at `date`"
